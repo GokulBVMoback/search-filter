@@ -32,7 +32,7 @@ useEffect(()=>{
     const renderPagination=()=>{
         if(currentPage==0){
             return(
-                
+                <p>1</p>
             )
         }
     }
