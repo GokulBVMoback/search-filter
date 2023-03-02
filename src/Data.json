@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "image":"ss-bat.jpg",
+        "title":"SS Bat",
+        "product":"bat",
+        "price":1699
+    },
+    {
+        "id":2,
+        "image":"kookabura-bat.jpg",
+        "title":"Kookabura Bat",
+        "product":"bat",
+        "price":1499        
+    },
+    {
+        "id":3,
+        "image":"sg-bat.jpg",
+        "title":"SG Bat",
+        "product":"bat",
+        "price":1250        
+    },
+    {
+        "id":4,
+        "image":"ss-ball.jpg",
+        "title":"SS Ball",
+        "product":"ball",
+        "price":750        
+    },
+    {
+        "id":5,
+        "image":"kookabura-ball.jpg",
+        "title":"Kookabura Ball",
+        "product":"ball",
+        "price":800        
+    },
+    {
+        "id":6,
+        "image":"sg-ball.jpg",
+        "title":"SG Ball",
+        "product":"ball",
+        "price":800        
+    }
+]
