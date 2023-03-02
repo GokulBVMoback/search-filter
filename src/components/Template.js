@@ -1,11 +1,10 @@
-import React,{useState} from 'react'
+import React,{useState,useEffect} from 'react'
 import data from '../Data.json'
 import './Template.css'
 
 const Template = () => {
     const [searchTerm,setSearchTerm]=useState("");
     const [product, setProduct]=useState("");
-    console.log(product);
 
   return (
     <div className='templateContainer'>
