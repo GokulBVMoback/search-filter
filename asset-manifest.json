@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/search-filter/static/css/main.af25fde5.css",
-    "main.js": "/search-filter/static/js/main.5334e35c.js",
+    "main.css": "/search-filter/static/css/main.506c2f66.css",
+    "main.js": "/search-filter/static/js/main.cf547921.js",
     "static/js/787.2d0daef2.chunk.js": "/search-filter/static/js/787.2d0daef2.chunk.js",
     "static/media/kookabura-ball.jpg": "/search-filter/static/media/kookabura-ball.800228aac45c934dd2b3.jpg",
     "static/media/sg-ball.jpg": "/search-filter/static/media/sg-ball.e11008c3355f8d0cdc96.jpg",
@@ -11,12 +11,12 @@
     "static/media/ss-bat.jpg": "/search-filter/static/media/ss-bat.08c9dd01c44efa35fa9b.jpg",
     "static/media/logo.svg": "/search-filter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/search-filter/index.html",
-    "main.af25fde5.css.map": "/search-filter/static/css/main.af25fde5.css.map",
-    "main.5334e35c.js.map": "/search-filter/static/js/main.5334e35c.js.map",
+    "main.506c2f66.css.map": "/search-filter/static/css/main.506c2f66.css.map",
+    "main.cf547921.js.map": "/search-filter/static/js/main.cf547921.js.map",
     "787.2d0daef2.chunk.js.map": "/search-filter/static/js/787.2d0daef2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af25fde5.css",
-    "static/js/main.5334e35c.js"
+    "static/css/main.506c2f66.css",
+    "static/js/main.cf547921.js"
   ]
 }
