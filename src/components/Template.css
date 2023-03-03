@@ -5,12 +5,14 @@ body{
 .radiobutton {
     display: flex;
     font-size: 20px;
-    position: absolute;
+    position: sticky;
     top: 0px;
     letter-spacing: 2px;
     width: 100%;
     background-color: darkcyan;
     padding: 10px;
+    z-index: 2000;
+    margin-bottom: 40px;
 }
 
 label {
@@ -23,7 +25,7 @@ label {
 }
 
 .templateContainer{
-    margin: 5% 0;
+    margin: 0;
 }
 .templateContainer > .searchInput_Container{
     display: flex;
@@ -38,6 +40,7 @@ label {
 }
 .templateContainer .template_Container{
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     margin: 0 auto;

@@ -26,5 +26,19 @@
         "title":"SS Ball",
         "product":"ball",
         "price":750        
+    },
+    {
+        "id":5,
+        "image":"kookabura-ball.jpg",
+        "title":"Kookabura Ball",
+        "product":"ball",
+        "price":800        
+    },
+    {
+        "id":6,
+        "image":"sg-ball.jpg",
+        "title":"SG Ball",
+        "product":"ball",
+        "price":800        
     }
 ]
